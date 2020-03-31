@@ -1,5 +1,10 @@
 module qi
 
-greet() = print("Hello World!")
-
+#############################################
+function test()
+	4+5
+end
+#############################################
+export test
+	
 end # module
